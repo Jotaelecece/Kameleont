@@ -1,0 +1,41 @@
+
+html{
+background-image: url();
+
+
+}
+
+
+
+
+h1{
+    color:white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Helvetica, sans-serif;
+ 
+   background-image: url("../img/1.jpg"); background-position: center; background-repeat:space ;
+   background-size: cover;
+   background-attachment:scroll;
+   ;
+
+
+
+
+
+   height: 50vh;
+}
+
+nav{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif , sans-serif;
+}
+
+
+h2{ text-align: center;}
+article {
+color:yellowgreen;
+text-align: justify, center
+
+
+}
